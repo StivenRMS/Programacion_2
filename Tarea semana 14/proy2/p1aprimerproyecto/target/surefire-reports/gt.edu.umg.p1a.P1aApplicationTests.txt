@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: gt.edu.umg.p1a.P1aApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.969 s - in gt.edu.umg.p1a.P1aApplicationTests
